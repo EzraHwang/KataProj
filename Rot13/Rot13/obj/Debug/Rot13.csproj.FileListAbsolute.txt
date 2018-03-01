@@ -1,0 +1,14 @@
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\obj\Debug\Rot13.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\obj\Debug\Rot13.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\bin\Debug\Rot13.exe.config
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\bin\Debug\Rot13.exe
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\bin\Debug\Rot13.pdb
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\obj\Debug\Rot13.exe
+C:\Users\ezra.hwang23\Desktop\WorkPlace\Rot13\Rot13\obj\Debug\Rot13.pdb
+D:\下載\Rot13\Rot13\bin\Debug\Rot13.exe.config
+D:\下載\Rot13\Rot13\bin\Debug\Rot13.exe
+D:\下載\Rot13\Rot13\bin\Debug\Rot13.pdb
+D:\下載\Rot13\Rot13\obj\Debug\Rot13.csprojResolveAssemblyReference.cache
+D:\下載\Rot13\Rot13\obj\Debug\Rot13.csproj.CoreCompileInputs.cache
+D:\下載\Rot13\Rot13\obj\Debug\Rot13.exe
+D:\下載\Rot13\Rot13\obj\Debug\Rot13.pdb
