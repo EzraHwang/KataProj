@@ -1,0 +1,7 @@
+E:\Ez\Work\KataCode\AverageString\AverageString\bin\Debug\AverageString.exe.config
+E:\Ez\Work\KataCode\AverageString\AverageString\bin\Debug\AverageString.exe
+E:\Ez\Work\KataCode\AverageString\AverageString\bin\Debug\AverageString.pdb
+E:\Ez\Work\KataCode\AverageString\AverageString\obj\Debug\AverageString.csprojResolveAssemblyReference.cache
+E:\Ez\Work\KataCode\AverageString\AverageString\obj\Debug\AverageString.csproj.CoreCompileInputs.cache
+E:\Ez\Work\KataCode\AverageString\AverageString\obj\Debug\AverageString.exe
+E:\Ez\Work\KataCode\AverageString\AverageString\obj\Debug\AverageString.pdb
