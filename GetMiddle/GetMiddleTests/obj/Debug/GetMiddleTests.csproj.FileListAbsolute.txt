@@ -1,0 +1,16 @@
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\GetMiddleTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\GetMiddleTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\GetMiddle.exe
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\GetMiddle.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\GetMiddle.exe.config
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\obj\Debug\GetMiddleTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\obj\Debug\GetMiddleTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\obj\Debug\GetMiddleTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddleTests\obj\Debug\GetMiddleTests.pdb
