@@ -1,0 +1,2 @@
+C:\Users\ezra.hwang23\Desktop\Kata\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.CoreCompileInputs.cache
