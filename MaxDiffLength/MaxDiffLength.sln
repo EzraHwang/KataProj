@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxDiffLength", "MaxDiffLength\MaxDiffLength.csproj", "{5BE3AF59-B952-40D0-81BA-92450A8E39EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxDiffLengthTests", "MaxDiffLengthTests\MaxDiffLengthTests.csproj", "{FFFD4B31-4F3B-4B46-8EC6-916BF263338D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE3AF59-B952-40D0-81BA-92450A8E39EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3AF59-B952-40D0-81BA-92450A8E39EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE3AF59-B952-40D0-81BA-92450A8E39EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE3AF59-B952-40D0-81BA-92450A8E39EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFD4B31-4F3B-4B46-8EC6-916BF263338D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFD4B31-4F3B-4B46-8EC6-916BF263338D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFD4B31-4F3B-4B46-8EC6-916BF263338D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFD4B31-4F3B-4B46-8EC6-916BF263338D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB95ECD-ED49-4AB7-91C2-ECEA7A86C151}
+	EndGlobalSection
+EndGlobal
