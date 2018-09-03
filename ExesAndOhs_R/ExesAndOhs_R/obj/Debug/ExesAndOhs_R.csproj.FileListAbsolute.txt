@@ -1,0 +1,6 @@
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\bin\Debug\ExesAndOhs_R.dll
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\bin\Debug\ExesAndOhs_R.pdb
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\obj\Debug\ExesAndOhs_R.csprojResolveAssemblyReference.cache
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\obj\Debug\ExesAndOhs_R.csproj.CoreCompileInputs.cache
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\obj\Debug\ExesAndOhs_R.dll
+c:\users\ezra.hwang23\source\repos\ExesAndOhs_R\ExesAndOhs_R\obj\Debug\ExesAndOhs_R.pdb
