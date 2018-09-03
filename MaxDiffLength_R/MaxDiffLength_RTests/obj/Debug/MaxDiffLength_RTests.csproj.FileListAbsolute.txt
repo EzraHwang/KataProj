@@ -1,0 +1,9 @@
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\bin\Debug\MaxDiffLength_RTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\bin\Debug\MaxDiffLength_RTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\bin\Debug\MaxDiffLength_R.dll
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\bin\Debug\MaxDiffLength_R.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\obj\Debug\MaxDiffLength_RTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\obj\Debug\MaxDiffLength_RTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\obj\Debug\MaxDiffLength_RTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\MaxDiffLength_R\MaxDiffLength_RTests\obj\Debug\MaxDiffLength_RTests.pdb

@@ -1,7 +1,0 @@
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\obj\Debug\RomanNumeralsEncoder.csprojResolveAssemblyReference.cache
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\obj\Debug\RomanNumeralsEncoder.csproj.CoreCompileInputs.cache
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\bin\Debug\RomanNumeralsEncoder.exe.config
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\bin\Debug\RomanNumeralsEncoder.exe
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\bin\Debug\RomanNumeralsEncoder.pdb
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\obj\Debug\RomanNumeralsEncoder.exe
-C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder\RomanNumeralsEncoder\obj\Debug\RomanNumeralsEncoder.pdb

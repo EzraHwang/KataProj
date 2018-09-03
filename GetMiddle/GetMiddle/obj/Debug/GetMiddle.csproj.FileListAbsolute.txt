@@ -1,7 +1,0 @@
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\bin\Debug\GetMiddle.exe.config
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\bin\Debug\GetMiddle.exe
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\bin\Debug\GetMiddle.pdb
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\obj\Debug\GetMiddle.csprojResolveAssemblyReference.cache
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\obj\Debug\GetMiddle.csproj.CoreCompileInputs.cache
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\obj\Debug\GetMiddle.exe
-C:\Users\ezra.hwang23\Desktop\Kata\GetMiddle\GetMiddle\obj\Debug\GetMiddle.pdb

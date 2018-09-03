@@ -1,7 +1,0 @@
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\bin\Debug\Exes and Ohs.exe.config
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\bin\Debug\Exes and Ohs.exe
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\bin\Debug\Exes and Ohs.pdb
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\obj\Debug\Exes and Ohs.csprojResolveAssemblyReference.cache
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\obj\Debug\Exes and Ohs.csproj.CoreCompileInputs.cache
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\obj\Debug\Exes and Ohs.exe
-C:\Users\ezra.hwang23\Desktop\Kata\Exes and Ohs\Exes and Ohs\obj\Debug\Exes and Ohs.pdb

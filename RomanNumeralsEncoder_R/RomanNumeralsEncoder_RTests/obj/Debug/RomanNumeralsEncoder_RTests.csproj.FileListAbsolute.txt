@@ -1,0 +1,11 @@
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\RomanNumeralsEncoder_RTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\RomanNumeralsEncoder_RTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\nunit.framework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\RomanNumeralsEncoder_R.dll
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\RomanNumeralsEncoder_R.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\bin\Debug\nunit.framework.xml
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\obj\Debug\RomanNumeralsEncoder_RTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\obj\Debug\RomanNumeralsEncoder_RTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\obj\Debug\RomanNumeralsEncoder_RTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\RomanNumeralsEncoder_R\RomanNumeralsEncoder_RTests\obj\Debug\RomanNumeralsEncoder_RTests.pdb

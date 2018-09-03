@@ -1,7 +1,0 @@
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\bin\Debug\DigitalCypher.exe.config
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\bin\Debug\DigitalCypher.exe
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\bin\Debug\DigitalCypher.pdb
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.csprojResolveAssemblyReference.cache
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.csproj.CoreCompileInputs.cache
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.exe
-C:\Users\ezra.hwang23\Desktop\Kata\DigitalCypher\DigitalCypher\obj\Debug\DigitalCypher.pdb
