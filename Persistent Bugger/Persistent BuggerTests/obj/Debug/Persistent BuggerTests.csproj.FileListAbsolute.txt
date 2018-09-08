@@ -1,0 +1,9 @@
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\bin\Debug\Persistent BuggerTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\bin\Debug\Persistent BuggerTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\bin\Debug\Persistent Bugger.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\bin\Debug\Persistent Bugger.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\obj\Debug\Persistent BuggerTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\obj\Debug\Persistent BuggerTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\obj\Debug\Persistent BuggerTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent BuggerTests\obj\Debug\Persistent BuggerTests.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent Bugger", "Persistent Bugger\Persistent Bugger.csproj", "{0F8C3AC3-5143-4893-9B00-EA9BE229A543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent BuggerTests", "Persistent BuggerTests\Persistent BuggerTests.csproj", "{82475E04-6FEB-43DD-838F-D29388DBF62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8C3AC3-5143-4893-9B00-EA9BE229A543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8C3AC3-5143-4893-9B00-EA9BE229A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8C3AC3-5143-4893-9B00-EA9BE229A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8C3AC3-5143-4893-9B00-EA9BE229A543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82475E04-6FEB-43DD-838F-D29388DBF62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82475E04-6FEB-43DD-838F-D29388DBF62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82475E04-6FEB-43DD-838F-D29388DBF62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82475E04-6FEB-43DD-838F-D29388DBF62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EEFF78-1BD4-4679-9BF8-F568761FEE6F}
+	EndGlobalSection
+EndGlobal

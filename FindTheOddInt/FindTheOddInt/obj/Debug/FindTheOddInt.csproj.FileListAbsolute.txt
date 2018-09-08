@@ -1,0 +1,5 @@
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddInt\bin\Debug\FindTheOddInt.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddInt\bin\Debug\FindTheOddInt.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddInt\obj\Debug\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddInt\obj\Debug\FindTheOddInt.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddInt\obj\Debug\FindTheOddInt.pdb

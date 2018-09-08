@@ -1,0 +1,9 @@
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\bin\Debug\FindTheOddIntTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\bin\Debug\FindTheOddIntTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\bin\Debug\FindTheOddInt.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\bin\Debug\FindTheOddInt.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\obj\Debug\FindTheOddIntTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\obj\Debug\FindTheOddIntTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\obj\Debug\FindTheOddIntTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheOddInt\FindTheOddIntTests\obj\Debug\FindTheOddIntTests.pdb

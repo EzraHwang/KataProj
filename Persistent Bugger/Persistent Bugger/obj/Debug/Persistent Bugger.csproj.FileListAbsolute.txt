@@ -1,0 +1,6 @@
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\bin\Debug\Persistent Bugger.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\bin\Debug\Persistent Bugger.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.dll
+C:\Users\ezra.hwang23\Desktop\Kata\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.pdb
