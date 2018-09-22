@@ -1,0 +1,11 @@
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\VowelCountTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\VowelCountTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\VowelCount.dll
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\VowelCount.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\obj\Debug\VowelCountTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\obj\Debug\VowelCountTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\obj\Debug\VowelCountTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\obj\Debug\VowelCountTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\nunit.framework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\VowelCount\VowelCountTests\bin\Debug\nunit.framework.xml
