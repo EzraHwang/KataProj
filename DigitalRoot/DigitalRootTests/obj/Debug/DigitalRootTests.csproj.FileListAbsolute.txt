@@ -1,0 +1,9 @@
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\obj\Debug\DigitalRootTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\obj\Debug\DigitalRootTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\bin\Debug\DigitalRootTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\bin\Debug\DigitalRootTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\bin\Debug\DigitalRoot.dll
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\bin\Debug\DigitalRoot.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\obj\Debug\DigitalRootTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\DigitalRoot\DigitalRootTests\obj\Debug\DigitalRootTests.pdb
