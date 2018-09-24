@@ -1,0 +1,11 @@
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\FindTheParityOutlierTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\FindTheParityOutlierTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\FindTheParityOutlier.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\FindTheParityOutlier.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\obj\Debug\FindTheParityOutlierTests.csprojResolveAssemblyReference.cache
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\obj\Debug\FindTheParityOutlierTests.csproj.CoreCompileInputs.cache
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\obj\Debug\FindTheParityOutlierTests.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\obj\Debug\FindTheParityOutlierTests.pdb
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\nunit.framework.dll
+C:\Users\ezra.hwang23\Desktop\Kata\FindTheParityOutlier\FindTheParityOutlierTests\bin\Debug\nunit.framework.xml
